@@ -21,8 +21,6 @@
 
 
 
-## 📝 라이선스
-모든 프로젝트는 [라이선스 타입] 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE.md](LICENSE.md) 파일을 참고하세요.
 
 ## 💬 커뮤니티
 -   **Notion**: [[Notion_spAIk](https://www.notion.so/spAIk-225b71be02228087b862e7b533505be9)]
