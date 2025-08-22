@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/spAIk-GS/.github/blob/684bd39b699159bd9c876a2fd716aeb84d9f458a/%EB%A1%9C%EA%B3%A0.png" alt="조직 로고">
+  <img src="https://github.com/spAIk-GS/.github/blob/9ff7c8b89138369ee7b1f8398a2c941e6aa5a8fa/spAIk_logo.png" alt="조직 로고">
   
 </div>
 
