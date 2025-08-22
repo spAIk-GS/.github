@@ -1,17 +1,6 @@
 <div align="center">
-  <img src="https://placehold.co/200x200/png" alt="조직 로고">
-  <h1>[spAIk]</h1>
-  <p><i>[조직의 슬로건 또는 한 줄 설명]</i></p>
+  <img src="https://github.com/spAIk-GS/.github/blob/684bd39b699159bd9c876a2fd716aeb84d9f458a/%EB%A1%9C%EA%B3%A0.png" alt="조직 로고">
   
-  <p>
-    <!-- 여기에 뱃지를 추가하세요. -->
-    <a href="https://github.com/[조직명]/[프로젝트1]">
-      <img src="https://img.shields.io/github/stars/[조직명]/[프로젝트1].svg?style=flat" alt="Stars">
-    </a>
-    <a href="https://github.com/[조직명]/[프로젝트2]">
-      <img src="https://img.shields.io/github/license/[조직명]/[프로젝트2].svg" alt="License">
-    </a>
-  </p>
 </div>
 
 ## ✨ 소개
